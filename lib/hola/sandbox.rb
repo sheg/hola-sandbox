@@ -2,6 +2,8 @@ require "hola/sandbox/version"
 
 module Hola
   module Sandbox
-    # Your code goes here...
+    def self.hi
+      puts "Hello World"
+    end
   end
 end

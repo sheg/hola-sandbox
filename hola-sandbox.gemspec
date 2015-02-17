@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Hola::Sandbox::VERSION
   spec.authors       = ["Daniel Forkosh"]
   spec.email         = ["danforkosh@yahoo.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = "my very first gem"
+  spec.summary       = "my very first gem"
+  spec.homepage      = "https://github.com/sheg/hola-sandbox"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
